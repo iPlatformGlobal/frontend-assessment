@@ -95,8 +95,7 @@ will be done against the solution.
 
 ## How do I submit my solution?
 
-Send a pull request from your repository.
+Create a new repository with your assessment submission on GitHub, and send us the link via email.
 
-## Questions or comments
+> Note: Please do not fork this repository
 
-Please use the issues functionality on Github. All questions will be answered via Github.
